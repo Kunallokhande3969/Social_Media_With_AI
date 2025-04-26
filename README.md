@@ -57,3 +57,12 @@ Feel free to reach out!
 1. Clone this repository:
    ```bash
    git clone https://github.com/Kunallokhande3969/Social_Media_With_AI.git
+   
+2.Install dependencies:
+   ```bash
+   npm install 
+
+
+
+   
+
