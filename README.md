@@ -51,8 +51,31 @@ Through this project, I strengthened my belief that:
 1. Clone this repository:
    ```bash
    git clone https://github.com/Kunallokhande3969/Social_Media_With_AI.git
-   
+   ```
 2.Install dependencies:
    ```bash
-   npm install
+npm install
+```
+3.Start the server:
+ ```bash
+npx nodemon
+```
+
+⭐ Future Improvements
+Add more AI-powered features like trend analysis and post moderation
+
+Expand the chat system to support multimedia and file uploads
+
+Scale the app by deploying on cloud platforms (AWS/GCP)
+ Useful Links
+Google Gemini 1.5 Flash
+
+Socket.io Official Documentation
+Redis Documentation
+Postman API Platform
+Cloudinary Official Documentation
+Add automated testing for real-time features
+
+
+
 
