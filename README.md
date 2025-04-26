@@ -38,8 +38,8 @@ A backend system for a full-stack social media platform inspired by Instagram an
 
 ## 📸 Screenshots
 
-
-_(Add Postman screenshots or Architecture diagrams if available)_
+_![image](https://github.com/user-attachments/assets/3574610c-e072-4ed3-81c5-32e0b30d27be)
+ ![Postman_FZjAYaCMKS](https://github.com/user-attachments/assets/04c05717-e795-4c2f-8b16-184634e1b997)
 
 ## 👨‍💻 About This Project
      
@@ -51,7 +51,7 @@ Through this project, I strengthened my belief that:
 "Given an idea, I can break it down, design it, and bring it to life through code."
 
 ## 📬 Let's Collaborate
-     ------------------
+
 
 Are you working on exciting projects around AI, real-time apps, or backend systems?  
 I'd love to connect, discuss, and maybe collaborate. 🚀  
@@ -61,4 +61,4 @@ Feel free to reach out!
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ai-social-media-backend.git
+ https://github.com/Kunallokhande3969/Social_Media_With_AI/tree/main
