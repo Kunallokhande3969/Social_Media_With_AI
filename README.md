@@ -61,5 +61,5 @@ Feel free to reach out!
 ## 📂 How to Run Locally
 
 1. Clone this repository:
-[ https://github.com/Kunallokhande3969/Social_Media_With_AI/tree/main](https://github.com/Kunallokhande3969/Social_Media_With_AI.git)
+   ``[ https://github.com/Kunallokhande3969/Social_Media_With_AI/tree/main](https://github.com/Kunallokhande3969/Social_Media_With_AI.git)``
 
