@@ -55,6 +55,9 @@ Feel free to reach out!
 ## 📂 How to Run Locally
    npx nodemon
 
+## 📂 How to Run Locally
+
 1. Clone this repository:
-   ```bash  [ https://github.com/Kunallokhande3969/Social_Media_With_AI/tree/main](https://github.com/Kunallokhande3969/Social_Media_With_AI.git)
+   ```bash
+[ https://github.com/Kunallokhande3969/Social_Media_With_AI/tree/main](https://github.com/Kunallokhande3969/Social_Media_With_AI.git)
 
