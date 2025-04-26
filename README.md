@@ -60,9 +60,4 @@ Feel free to reach out!
    
 2.Install dependencies:
    ```bash
-   npm install 
-
-
-
-   
-
+   npm install
