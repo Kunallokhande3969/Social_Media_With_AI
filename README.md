@@ -67,15 +67,17 @@ Add more AI-powered features like trend analysis and post moderation
 Expand the chat system to support multimedia and file uploads
 
 Scale the app by deploying on cloud platforms (AWS/GCP)
- Useful Links
-Google Gemini 1.5 Flash
 
-Socket.io Official Documentation
-Redis Documentation
-Postman API Platform
-Cloudinary Official Documentation
-Add automated testing for real-time features
+🔗 Useful Links
 
+## 🔗 Useful Links
+ ```bash
+- [Google Gemini 1.5 Flash](https://deepmind.google/technologies/gemini/)
+- [Socket.io Official Documentation](https://socket.io/docs/v4/)
+- [Redis Documentation](https://redis.io/docs/)
+- [Postman API Platform](https://www.postman.com/)
+- [Cloudinary Official Documentation](https://cloudinary.com/documentation)
+```
 
 
 
