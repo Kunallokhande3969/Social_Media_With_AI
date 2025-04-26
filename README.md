@@ -48,10 +48,10 @@ Through this project, I strengthened my belief that:
 
 ## 📂 How to Run Locally
 
-1. Clone this repository:
+1.Clone this repository:
    ```bash
-   git clone https://github.com/Kunallokhande3969/Social_Media_With_AI.git
-   ```
+ git clone https://github.com/Kunallokhande3969/Social_Media_With_AI.git
+ ```
 2.Install dependencies:
    ```bash
 npm install
@@ -68,7 +68,6 @@ Expand the chat system to support multimedia and file uploads
 
 Scale the app by deploying on cloud platforms (AWS/GCP)
 
-🔗 Useful Links
 
 ## 🔗 Useful Links
 
