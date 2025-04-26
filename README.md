@@ -71,13 +71,13 @@ Scale the app by deploying on cloud platforms (AWS/GCP)
 🔗 Useful Links
 
 ## 🔗 Useful Links
- ```bash
+
 - [Google Gemini 1.5 Flash](https://deepmind.google/technologies/gemini/)
 - [Socket.io Official Documentation](https://socket.io/docs/v4/)
 - [Redis Documentation](https://redis.io/docs/)
 - [Postman API Platform](https://www.postman.com/)
 - [Cloudinary Official Documentation](https://cloudinary.com/documentation)
-```
+
 
 
 
