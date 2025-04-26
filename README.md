@@ -59,5 +59,5 @@ Feel free to reach out!
 
 1. Clone this repository:
    ```bash
-[ https://github.com/Kunallokhande3969/Social_Media_With_AI/tree/main](https://github.com/Kunallokhande3969/Social_Media_With_AI.git)
+https://github.com/Kunallokhande3969/Social_Media_With_AI.git
 
