@@ -3,7 +3,7 @@
 A backend system for a full-stack social media platform inspired by Instagram and Twitter — but with a twist: powerful AI integrations! Built with real-time features, scalable architecture, and smart AI-driven content generation.
 
 ##  Tech Stack
-    -----------
+   
 
 - Node.js & **Express.js** – Server-side development
 - MongoDB – Database for users, posts, comments, chats
@@ -14,7 +14,7 @@ A backend system for a full-stack social media platform inspired by Instagram an
 - Postman – API testing and documentation
 
 ## 🔧 Core Features
-      --------------
+      
 
 - ✅ **User Authentication** (Register, Login, Logout) with JWT tokens
 - ✅ **Post Management** (Create, Like, Unlike, Comment, Reply)
@@ -26,7 +26,7 @@ A backend system for a full-stack social media platform inspired by Instagram an
 - ✅ **Postman API Collection** (full documentation and API testing setup)
 
 ## 💡 Key Learnings
-      -------------
+     
 
 - Designing scalable backend architecture
 - Implementing real-time communication with Socket.io
@@ -37,12 +37,12 @@ A backend system for a full-stack social media platform inspired by Instagram an
 - Handling media uploads and management with Cloudinary
 
 ## 📸 Screenshots
-      -----------
+
 
 _(Add Postman screenshots or Architecture diagrams if available)_
 
 ## 👨‍💻 About This Project
-     --------------------
+     
 
 This is a personal passion project — not a tutorial or assignment.  
 It represents real problem-solving, backend system design, and integrating AI technologies practically.
