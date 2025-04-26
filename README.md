@@ -46,12 +46,6 @@ It represents real problem-solving, backend system design, and integrating AI te
 Through this project, I strengthened my belief that:  
 "Given an idea, I can break it down, design it, and bring it to life through code."
 
-## 📬 Let's Collaborate
-
-Are you working on exciting projects around AI, real-time apps, or backend systems?  
-I'd love to connect, discuss, and maybe collaborate. 🚀  
-Feel free to reach out!
-
 ## 📂 How to Run Locally
 
 1. Clone this repository:
@@ -61,3 +55,4 @@ Feel free to reach out!
 2.Install dependencies:
    ```bash
    npm install
+
