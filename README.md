@@ -46,6 +46,9 @@ It represents real problem-solving, backend system design, and integrating AI te
 Through this project, I strengthened my belief that:  
 "Given an idea, I can break it down, design it, and bring it to life through code."
 
+## 📽️ Video Link
+    https://www.linkedin.com/posts/kunal-lokhande-70464b290_nodejs-expressjs-mongodb-activity-7321236349213110272-QWXs/?rcm=ACoAAEaTGjQBxzjehJOlrsR9bee9Lj8H73U5TkA
+
 ## 📂 How to Run Locally
 
 1.Clone this repository:
